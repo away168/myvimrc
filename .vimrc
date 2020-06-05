@@ -1,7 +1,7 @@
 " show line numbers
-set number
+" set number
 set wrap
-set guifont=SourceCodeProForPowerline-Regular:h14 
+" set guifont=SourceCodeProForPowerline-Regular:h14 
 
 syntax on
 " ignorecase when searching
