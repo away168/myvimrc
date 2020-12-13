@@ -11,6 +11,10 @@ filetype indent on
 
 set paste
 
+set hlsearch    " highlight all search results
+set incsearch   " show incremental search results as you type
+set number      " display line number
+
 " set tab width and autoindents
 set autoindent
 set smartindent
